@@ -27,7 +27,7 @@ $(function(){
 
   $(".search-form").on("submit", function(event){
 
-    console.log("submit happened");
+    // console.log("submit happened");
     
     event.preventDefault();
     
